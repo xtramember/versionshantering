@@ -7,8 +7,11 @@
 Logga in på Facebook på en Iphone.
 Vad behöver man?
 •	En iphone.
+
 •	Tillgång till internet.
+
 •	Batteri i telefonen, alternativt laddare inkopplad.
+
 •	Ett giltigt Facebook-konto.
 
 Hur gör man?
