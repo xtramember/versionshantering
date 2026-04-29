@@ -1,8 +1,8 @@
 # Teknisk Dokumenation över hur man loggar in på facebook på en iphone.
 
-# Målgrupp:icke-tekniska slutanvändare
+## Målgrupp:icke-tekniska slutanvändare
 
-# instruktioner
+### instruktioner
 
 Vad behöver man?
 
