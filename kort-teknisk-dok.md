@@ -1,6 +1,6 @@
-#Teknisk Dokumenation hur man logga in på facebook på en iphone
+#Teknisk Dokumenation över hur man loggar in på facebook på en iphone.
 
-#Målgrupp:icke-teknsika slutanvändare
+#Målgrupp:icke-tekniska slutanvändare
 
 #instruktioner
 
