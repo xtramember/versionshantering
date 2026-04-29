@@ -4,8 +4,6 @@
 
 #instruktioner
 
-Logga in på Facebook på en Iphone.
-
 Vad behöver man?
 
 •	En iphone.
